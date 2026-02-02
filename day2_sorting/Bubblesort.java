@@ -18,7 +18,7 @@ take unsorted array
 outer loop start i = n-1  till 0 and i will be decreasing
 inner loop j will start from  0 to till i-1
 Push the maximum element to the end of the selected range: Use an inner loop (j) that runs from 0 to i-1. Compare adjacent elements and swap them if arr[j] > arr[j+1]. Repeating this process ensures the maximum element in the current range moves to index i.
-then swap 
+then swap
 
 * */
 
